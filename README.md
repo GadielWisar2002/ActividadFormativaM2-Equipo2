@@ -1,4 +1,4 @@
-# ActividadFormativaM2-Equipo2
+# Actividad Git-GitHub-Equipo2
 
 Miembros del Equipo:
 
